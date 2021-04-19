@@ -7,5 +7,5 @@ The Neo4j Community Working Group is a public collaboration for managing these s
 - [Neo4j Community Calendar](https://calendar.google.com/calendar/u/0?cid=Y19wOXRscGo0Mm0xNmI0bG9tbDAwM3RkbmQxOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) - events calendar
 
 Proposed:
-- [Neo4j Community Center](https://cc.neo4j.com) - projects, data, and peolpe
+- [Neo4j Community Center](https://cc.neo4j.com) - website about community projects, data, and people
 
