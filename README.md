@@ -16,7 +16,7 @@ Goals:
 - [Awesome Neo4j](https://github.com/neo4j-contrib/awesome-neo4j) - an awesome list about Neo4j
 
 Proposed:
-- [Neo4j Community Center](https://cc.neo4j.com) - website about community projects, data, and people
+- [Neo4j Community Center](https://github.com/neo4j-contrib/neo4j-cc) - website about community projects, data, and people
 
 ## Community Programs
 
