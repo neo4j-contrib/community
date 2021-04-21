@@ -1,6 +1,6 @@
 # Neo4j Community Working Group
 
-The Neo4j Community Working Group is a public collaboration f:
+The Neo4j Community Working Group is a public collaboration for promoting, supporting and managing the Neo4j Community.
 
 Goals:
 
