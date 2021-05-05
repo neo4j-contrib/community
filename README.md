@@ -6,7 +6,7 @@ Goals:
 
 0. As a Community of People, creating personal and professional relationships
 1. As a Community of Passion, advocating graph thinking as a transformative idea
-2. As a Community of Practice, sharing graph solutions to data challenges
+2. As a Community of Practice, learning and sharing graph solutions to data challenges
 3. As a Community of Product, contributing to the Neo4j ecosystem
 
 Practically, the Working Group manages some resources and conducts programs. This repository is (will become) a management
