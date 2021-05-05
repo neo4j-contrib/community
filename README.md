@@ -9,7 +9,14 @@ Goals:
 2. As a Community of Practice, sharing graph solutions to data challenges
 3. As a Community of Product, contributing to the Neo4j ecosystem
 
-Practically, the Working Group manages some resources and conducts programs.
+Practically, the Working Group manages some resources and conducts programs. This repository is (will become) a management
+tool for proposals, discussions, decisions and documentation. This is like an open-source project without code, founded by Neo4j 
+and welcoming contributors. 
+
+Principles:
+
+- Transparency > Closed-doors
+- Async > Sync
 
 ## Community Resources
 
