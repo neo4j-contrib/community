@@ -92,6 +92,17 @@ conducting continuous engagement activites.
 - [Neo4j Ninjas](https://community.neo4j.com/t/neo4j-ninjas-master-neo4j-through-advanced-training-by-helping-people/12208)
 - [Speaker Program](https://the.speaker.program/should/be/a/subsequent_RFC#which_does_not_yet_exist)
 
+
+## How-to Working Group
+
+The Neo4j Community Working Group will:
+
+- meet on a regular basis to have live discussions
+- use RFCs for public, async discussion
+- use pull-requests to submit, review and approve changes
+
+*ACTION* How often should the WG meet?
+
 --- 
 
 ## Notes
