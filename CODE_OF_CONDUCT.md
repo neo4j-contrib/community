@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Neo4j Community Code of Conduct
 
 ## Our Pledge
 
