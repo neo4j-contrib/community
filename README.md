@@ -20,6 +20,8 @@ Principles:
 
 ## Community Resources
 
+### Channels
+
 - [Neo4j Community Forums](https://community.neo4j.com) - threaded discussion forums, perfect for Q&A
 - [Neo4j Discord Server](https://discord.com/invite/neo4j) - live chat, for timely discussions
 - [Neo4j Community Calendar](https://calendar.google.com/calendar/u/0?cid=Y19wOXRscGo0Mm0xNmI0bG9tbDAwM3RkbmQxOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) - events calendar
@@ -28,6 +30,6 @@ Principles:
 Proposed:
 - [Neo4j Community Center](https://github.com/neo4j-contrib/neo4j-cc) - website about community projects, data, and people
 
-## Community Programs
+### Programs
 
 - [Neo4j Ninjas](https://community.neo4j.com/t/neo4j-ninjas-master-neo4j-through-advanced-training-by-helping-people/12208)
