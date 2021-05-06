@@ -1,12 +1,22 @@
 # Neo4j Community Working Group
 
-The Neo4j Community Working Group is a public collaboration f:
+> The Neo4j Community Working Group is a public collaboration focused on growing the community around graph technology.
 
 Goals:
 
-1. As a Community of Passion, advocating graph thinking to realize the value in relationships
-2. As a Community of Practice, creating graph solutions to data challenges
-3. As a Community of Product, helping people use the Neo4j graph platform
+0. As a Community of People, creating personal and professional relationships
+1. As a Community of Passion, advocating graph thinking as a transformative idea
+2. As a Community of Practice, learning and sharing graph solutions to data challenges
+3. As a Community of Product, contributing to the Neo4j ecosystem
+
+Practically, the Working Group manages some resources and conducts programs. This repository is (will become) a management
+tool for proposals, discussions, decisions and documentation. This is like an open-source project without code, founded by Neo4j 
+and welcoming contributors. 
+
+Principles:
+
+- Transparency > Closed-doors
+- Async > Sync
 
 ## Community Resources
 
@@ -16,7 +26,7 @@ Goals:
 - [Awesome Neo4j](https://github.com/neo4j-contrib/awesome-neo4j) - an awesome list about Neo4j
 
 Proposed:
-- [Neo4j Community Center](https://cc.neo4j.com) - website about community projects, data, and people
+- [Neo4j Community Center](https://github.com/neo4j-contrib/neo4j-cc) - website about community projects, data, and people
 
 ## Community Programs
 
