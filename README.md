@@ -1,9 +1,16 @@
-# Neo4j Community Working Group
+<p align="right">
+  <a href="https://discord.gg/neo4j">
+    <img alt="Discord" src="https://img.shields.io/discord/787399249741479977?logo=discord&logoColor=white">
+  <a href="https://discord.gg/neo4j">
+  <a href="https://community.neo4j.com">
+    <img alt="Discourse users" src="https://img.shields.io/discourse/users?logo=discourse&server=https%3A%2F%2Fcommunity.neo4j.com">
+  </a>
+</p>
+
+# Neo4j Community Working Group 
 
 > The Neo4j Community Working Group is a public collaboration focused on growing the community around graph technology.
 
-[![Discord](https://img.shields.io/discord/787399249741479977?logo=discord&logoColor=white)](https://discord.gg/neo4j)
-[![Discourse users](https://img.shields.io/discourse/users?label=Forums&logo=discourse&server=https%3A%2F%2Fcommunity.neo4j.com)](https://community.neo4j.com)
 
 Goals:
 
